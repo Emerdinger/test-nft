@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-nft/static/css/main.68cf07d4.chunk.css",
-    "main.js": "/test-nft/static/js/main.1ff3b8d4.chunk.js",
-    "main.js.map": "/test-nft/static/js/main.1ff3b8d4.chunk.js.map",
+    "main.js": "/test-nft/static/js/main.19bdebb0.chunk.js",
+    "main.js.map": "/test-nft/static/js/main.19bdebb0.chunk.js.map",
     "runtime-main.js": "/test-nft/static/js/runtime-main.4c4319fb.js",
     "runtime-main.js.map": "/test-nft/static/js/runtime-main.4c4319fb.js.map",
     "static/js/2.97fff02d.chunk.js": "/test-nft/static/js/2.97fff02d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4c4319fb.js",
     "static/js/2.97fff02d.chunk.js",
     "static/css/main.68cf07d4.chunk.css",
-    "static/js/main.1ff3b8d4.chunk.js"
+    "static/js/main.19bdebb0.chunk.js"
   ]
 }
