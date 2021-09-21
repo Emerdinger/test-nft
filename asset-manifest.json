@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-nft/static/css/main.68cf07d4.chunk.css",
+    "main.js": "/test-nft/static/js/main.1ff3b8d4.chunk.js",
+    "main.js.map": "/test-nft/static/js/main.1ff3b8d4.chunk.js.map",
+    "runtime-main.js": "/test-nft/static/js/runtime-main.4c4319fb.js",
+    "runtime-main.js.map": "/test-nft/static/js/runtime-main.4c4319fb.js.map",
+    "static/js/2.97fff02d.chunk.js": "/test-nft/static/js/2.97fff02d.chunk.js",
+    "static/js/2.97fff02d.chunk.js.map": "/test-nft/static/js/2.97fff02d.chunk.js.map",
+    "static/js/3.2744b7e9.chunk.js": "/test-nft/static/js/3.2744b7e9.chunk.js",
+    "static/js/3.2744b7e9.chunk.js.map": "/test-nft/static/js/3.2744b7e9.chunk.js.map",
+    "index.html": "/test-nft/index.html",
+    "static/css/main.68cf07d4.chunk.css.map": "/test-nft/static/css/main.68cf07d4.chunk.css.map",
+    "static/js/2.97fff02d.chunk.js.LICENSE.txt": "/test-nft/static/js/2.97fff02d.chunk.js.LICENSE.txt",
+    "static/media/1.00beed9c.png": "/test-nft/static/media/1.00beed9c.png",
+    "static/media/reset.css": "/test-nft/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4319fb.js",
+    "static/js/2.97fff02d.chunk.js",
+    "static/css/main.68cf07d4.chunk.css",
+    "static/js/main.1ff3b8d4.chunk.js"
+  ]
+}
